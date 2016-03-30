@@ -1,0 +1,23 @@
+{
+    "name": "myjvn-node",
+    "version": "0.9.0",
+    "description": "This library is the node client of myjvn api.",
+    "license": "MIT",
+    "main": "dist/myjvn-node.js",
+    "homepage": "https://github.com/vvatanabe/tinypager",
+    "keywords": [
+        "myjvn",
+        "jvn",
+        "api",
+        "client"
+    ],
+    "ignore": [
+        "/.*",
+        "*.json",
+        "node_modules",
+        "demo",
+        "lib",
+        "src",
+        "test"
+    ]
+}
